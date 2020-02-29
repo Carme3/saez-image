@@ -1,0 +1,37 @@
+@font-face{
+    src: url(../fonts/Merriweather/Merriweather-Black.ttf);
+    font-family: "merri";
+}
+
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Black.ttf);
+    font-family: "mons";
+}
+
+@font-face{
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "sac";
+}
+#vector{
+    position: relative;
+    height: 55rem;
+    width: 30rem;
+}
+.name{
+    font-size: 3rem;
+    font-family: mons;
+    color: black;
+}
+.name1{
+    font-size: 5rem;
+    font-family: sac;
+    color: rgb(54, 212, 205);
+}
+.des{
+    font-size: 30px;
+    font-style: merri;
+    color: black;
+}
+body{
+    text-align: center;
+}
